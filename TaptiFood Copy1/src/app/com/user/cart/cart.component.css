@@ -1,0 +1,10 @@
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  div.relative {
+    position: relative;
+    left: 20px;
+    border: 3px solid gainsboro;
+  }
